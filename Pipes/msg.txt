@@ -1,0 +1,16 @@
+1	CHILD 1 : YOLO YOLO YOLO YOLO YOLOR YAH Where the party yah?
+2	CHILD 2 : I want to be cruisin’ on the bay Cruisin like NEMO
+3	CHILD 3 : I don’t have money but I wanna go somewhere far away
+4	PARENT  : My week, Monday Tuesday Wednesday Thursday Friyay Friyay 
+1	CHILD 1 : YOLO YOLO YOLO YOLO YOLOR YAH Where the party yah?
+2	CHILD 2 : I want to be cruisin’ on the bay Cruisin like NEMO 
+3	CHILD 3 : I don’t have money but I wanna go somewhere far away 
+4	PARENT  : My week, Monday Tuesday Wednesday Thursday Friyay Friyay 
+1	CHILD 1 : YOLO YOLO YOLO YOLO YOLOR YAH Where the party yah?
+2	CHILD 2 : I want to be cruisin’ on the bay Cruisin like NEMO 
+3	CHILD 3 :I don’t have money but I wanna go somewhere far away
+4	PARENT  : My week, Monday Tuesday Wednesday Thursday Friyay Friyay 
+1	CHILD 1 : YOLO YOLO YOLO YOLO YOLOR YAH Where the party yah?
+2	CHILD 2 : I want to be cruisin’ on the bay Cruisin like NEMO
+3	CHILD 3 : I don’t have money but I wanna go somewhere far away
+4	PARENT  : My week, Monday Tuesday Wednesday Thursday Friyay Friyay 
